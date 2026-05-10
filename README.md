@@ -1,9 +1,7 @@
 # 💼 Claude Camp Week 1 · Python Practice
 
-Las Vegas Studio 短租运营人 William（People and People LLC）的第一周 Python 作业。
+William 的第一周 Python 作业。  
 零基础起步，跟着 Max 校长的训练营和 Claude AI 一步步走通"写代码 → 终端运行 → git 提交 → 推到 GitHub"的完整流程。
-
-**作者：** William Liu　　**日期：** 2026 年 5 月
 
 🌐 **在线预览：** https://williamcnliu-hue.github.io/claude-camp-w1/
 
@@ -53,7 +51,7 @@ python3 "Temperature converter.py"
 - 文件名带空格的脚本，跑命令时要用双引号包起来：python3 "Temperature converter.py"
 - GitHub Pages 默认不开，要去 Settings → Pages 手动选 main 分支才能生效
 
-**核心理解：** GitHub 不是写代码的地方，是放代码的地方。
+**核心理解：** GitHub 不是写代码的地方，是放代码的地方。  
 代码在本地（VS Code）写，写完用 git 推送上去，让别人能看到。
 
 ---
@@ -62,7 +60,3 @@ python3 "Temperature converter.py"
 
 - 在线预览：https://williamcnliu-hue.github.io/claude-camp-w1/
 - 训练营：Max 校长 Money School "黄埔军校" Claude AI 学习营
-git add .
-git commit -m "更新 README：添加项目介绍、练习清单和心得"
-git push
-
