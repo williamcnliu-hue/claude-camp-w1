@@ -1,0 +1,12 @@
+# Mac 系统文件
+.DS_Store
+
+# Python 编译缓存
+__pycache__/
+*.pyc
+
+# VS Code 个人配置
+.vscode/
+
+# 环境变量（以后用 API key 时要忽略）
+.env
